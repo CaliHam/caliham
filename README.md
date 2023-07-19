@@ -10,7 +10,7 @@
 👾 Fun facts: I am an avid gamer and will often spend my free time playing Stardew Valley and Animal Crossing. Other passions include reading manga, playing with my cats, and raving about tattoos.  
 📫 How to reach me:   
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CaliHam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caliham/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callihan-herrmann/)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:calliherrmann@gmail.com)  
 <!-- To Include later:  
 Achievements: Highlight any notable achievements or awards you've received, such as publications, presentations, or competitions you've won.
