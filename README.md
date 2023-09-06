@@ -5,7 +5,7 @@
 🪸 My name is Callihan Herrmann and I am currently enrolled in Turing School of Software and Design and will graduate in fall of 2023.  
 🎓 I graduated from UNC Greensboro in 2018 with a major in Environmental Studies, where I developed a passion for solving complex problems that affect people and the planet. However, I soon realized that I could make an even greater impact by leveraging technology to address these issues.  
 🧩 I am currently learning Javascript, CSS, HTML, and React.  
-🔭 I’m currently working on [this project](https://github.com/CaliHam/overlook) called Overlook Hotel. Please feel free to look at all my past projects on my profile here on github!  
+🔭 I most recently completed [this group project](https://github.com/GratefulTogether/gratefultogether-ui) called Grateful Together. Please feel free to look at all my past projects on my profile here on github!  
 😄 Pronouns: she/her/hers  
 👾 Fun facts: I am an avid gamer and will often spend my free time playing Stardew Valley and Animal Crossing. Other passions include reading manga, playing with my cats, and raving about tattoos.  
 📫 How to reach me:   
