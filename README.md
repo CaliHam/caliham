@@ -4,7 +4,7 @@
 
 🪸 My name is Callihan Herrmann and I am currently enrolled in Turing School of Software and Design and will graduate in fall of 2023.  
 🎓 I graduated from UNC Greensboro in 2018 with a major in Environmental Studies, where I developed a passion for solving complex problems that affect people and the planet. However, I soon realized that I could make an even greater impact by leveraging technology to address these issues.  
-🧩 I am currently learning Javascript, CSS, HTML, and React.  
+🧩 I am currently learning Typescript.  
 🔭 I am currently working on [this solo application](https://github.com/CaliHam/the-amiibo-gallery) called The Amiibo Gallery where a user will be able to browse and search for a currently available amiibo. Please feel free to look at all my past projects on my profile here on github!  
 😄 Pronouns: she/her/hers  
 👾 Fun facts: I am an avid gamer and will often spend my free time playing Stardew Valley and Animal Crossing. Other passions include reading manga, playing with my cats, and raving about tattoos.  
